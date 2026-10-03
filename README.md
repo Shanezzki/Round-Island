@@ -32,3 +32,12 @@ Dungeons go the other way: they become 5% rarer every 100 blocks down, and are g
 ## Compatibility
 
 Round Island only changes the shape of the terrain: where land and water are, how deep the ocean goes, and what lies underground. Biome selection (temperature, humidity, erosion and so on) stays fully vanilla. Mods that add Overworld biomes keep working with no extra setup.
+
+# Gallery
+
+Mod logo:
+<img width="512" height="512" alt="logo" src="https://github.com/user-attachments/assets/1b70a853-d13e-4cff-9a0f-81cb8408826b" />
+
+Start Island Examples:
+<img width="1920" height="1009" alt="2026-10-03_18 48 57" src="https://github.com/user-attachments/assets/a5a68572-cf52-4349-8e37-7d2cf0d00d4e" />
+<img width="1920" height="1009" alt="2026-10-03_18 29 05" src="https://github.com/user-attachments/assets/2e64b0fa-38a2-4294-ba83-ce087cfb89cd" />
